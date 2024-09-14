@@ -5,13 +5,13 @@ permalink: /about
 ---
 
 <div style="float:left; margin-right:1.5em; margin-bottom:1.5em;" >
-    <img src="assets/profile_picture.PNG" />
+    <img src="assets/profilepic.jpg" />
 </div>
 
 # <u>Bio</u>
 
-My name is Jules Vigy and I am a software engineer that graduated from the University of Wisconsin-Madison with a degree in computer science. Originally, I emigrated from France, and in my time in university I solidifed my passion for programming. When I am not working or hacking together personal projects, I enjoy spending time with family, reading, running, skiing, and lifting weights. Occasionally, I enjoy indulging in the fine flavors of life including, but not limited to, haute cusine, champagne, wine, and cigars. I one day aspire to be a [six star finisher](https://www.worldmarathonmajors.com/six-star) and a certified sommelier.
+My name is Charlotte Vigy I’m a second-year computer science student at the University of Wisconsin who once had an offer to play D1 hockey but chose to follow my passion for tech instead. Trading the ice rink for the keyboard, I’ve dedicated myself to exploring the world of algorithms, AI, and creative coding projects. My journey from competitive sports to full-time studies has fueled my drive to push the limits of what’s possible in tech, and I’m always looking for new ways to innovate.
 
 # <u>Pet Projects</u>
 
-**[@react-simple-maps](https://github.com/julesvigy/react-simple-maps)** - is an open source project that I founded. The project aspires to provide simple and easy to use maps for [React](https://reactjs.org/). It is currently available for use on npm.
+**[Bitcoin trading bot]()** - Python bot to automate daily Bitcoin purchases, leveraging APIs for real-time price tracking and executing small, routine buys based on market conditions. The bot optimizes my investment strategy by handling the tedious task of consistent crypto purchases, allowing me to dollar-cost average without manual intervention.
