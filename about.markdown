@@ -5,7 +5,7 @@ permalink: /about
 ---
 
 <div style="float:left; margin-right:1.5em; margin-bottom:1.5em;" >
-    <img src="assets/profilepic.jpg" />
+    <img src="assets/profile_pic.jpg" />
 </div>
 
 # <u>Bio</u>
